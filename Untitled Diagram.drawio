@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T21:13:02.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UXIjN_aA1UoB6_Qz33-v" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T21:14:40.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="D7yynvbtzhwphyzc1SeA" version="16.1.2" type="github">
   <diagram id="29NIJwVER2qVtDaA8X9I" name="Page-1">
-    <mxGraphModel dx="1294" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1756" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,14 +147,26 @@
         <mxCell id="kGxBxlIGUOEUOIpiZbDs-27" value="Abroad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="200" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kGxBxlIGUOEUOIpiZbDs-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=36;" edge="1" parent="1" source="kGxBxlIGUOEUOIpiZbDs-35" target="kGxBxlIGUOEUOIpiZbDs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kGxBxlIGUOEUOIpiZbDs-35" value="Global Warming" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="-30" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGxBxlIGUOEUOIpiZbDs-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=36;" edge="1" parent="1" source="kGxBxlIGUOEUOIpiZbDs-36" target="kGxBxlIGUOEUOIpiZbDs-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kGxBxlIGUOEUOIpiZbDs-36" value="Water Shortage" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="70" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kGxBxlIGUOEUOIpiZbDs-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=36;" edge="1" parent="1" source="kGxBxlIGUOEUOIpiZbDs-37" target="kGxBxlIGUOEUOIpiZbDs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kGxBxlIGUOEUOIpiZbDs-37" value="War" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="350" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGxBxlIGUOEUOIpiZbDs-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=36;" edge="1" parent="1" source="kGxBxlIGUOEUOIpiZbDs-38" target="kGxBxlIGUOEUOIpiZbDs-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kGxBxlIGUOEUOIpiZbDs-38" value="Inflation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="260" width="90" height="60" as="geometry" />
@@ -167,6 +179,9 @@
         </mxCell>
         <mxCell id="kGxBxlIGUOEUOIpiZbDs-42" value="Stock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGxBxlIGUOEUOIpiZbDs-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=36;" edge="1" parent="1" source="kGxBxlIGUOEUOIpiZbDs-44" target="kGxBxlIGUOEUOIpiZbDs-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kGxBxlIGUOEUOIpiZbDs-44" value="Economic Shift" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="160" width="90" height="60" as="geometry" />
